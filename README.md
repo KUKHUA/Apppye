@@ -14,8 +14,8 @@ We load Winbox.js via a raw github link.
 
 1. Go [here](https://raw.githubusercontent.com/KUKHUA/Apppye/main/bookmarklet.js).
 2. Press CTRL+A, then CTRL+C.
-3. Press CTRL+SHIFT+B twice.
-4. Right-click the bookmarklet bar and select "Add page..."
+3. Press CTRL+SHIFT+B twice. (If the bookmark bar is already showing, skip this step.)
+4. Right-click the bookmark bar and select "Add page..."
 5. Choose a name for the bookmarklet (it doesn't matter what you put).
 6. Paste the copied URL using CTRL+V.
 7. You should now be able to use Appye on any site*.
